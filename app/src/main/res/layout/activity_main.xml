@@ -29,4 +29,10 @@
         android:layout_below="@id/button_time_picker"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="25dp"/>
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/huracancp" />
 </RelativeLayout>
